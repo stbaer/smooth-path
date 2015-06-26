@@ -17,3 +17,7 @@ var result = smoothPath(path);
 
 // result: [ 5, 5, 15, 15, 18.75, 18.75, 16.25, 16.25 ]
 ```
+
+## License
+
+MIT, see [LICENSE](http://github.com/stbaer/smooth-path/blob/master/LICENSE)
