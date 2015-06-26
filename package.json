@@ -1,6 +1,6 @@
 {
   "name": "smooth-path",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Smothes a flat number array path using Chaikins Algorithm",
   "main": "index.js",
   "scripts": {
