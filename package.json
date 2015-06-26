@@ -1,0 +1,37 @@
+{
+  "name": "smooth-path",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stbaer/smooth-path"
+  },
+  "keywords": [
+    "chaikin",
+    "smooth",
+    "polyline",
+    "2d",
+    "polygon",
+    "smoothing",
+    "chaikin's",
+    "shape",
+    "round",
+    "points",
+    "line",
+    "path"
+  ],
+  "author": "Steffen Bär",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stbaer/smooth-path/issues"
+  },
+  "homepage": "https://github.com/stbaer/smooth-path",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "dependencies": {}
+}
