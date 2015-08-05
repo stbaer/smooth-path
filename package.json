@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/stbaer/smooth-path",
   "devDependencies": {
-    "tape": "^4.0.0"
+    "tape": "^4.0.2"
   },
   "dependencies": {}
 }
