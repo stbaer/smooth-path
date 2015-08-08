@@ -1,15 +1,12 @@
 {
   "name": "smooth-path",
-  "version": "0.0.2",
-  "description": "Smothes a flat number array path using Chaikins Algorithm",
+  "version": "1.0.0",
+  "description": "Smoothes a polyline (as flat number array) using Chaikins Algorithm",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/stbaer/smooth-path"
-  },
+  "repository": "stbaer/smooth-path",
   "keywords": [
     "chaikin",
     "smooth",
@@ -31,7 +28,7 @@
   },
   "homepage": "https://github.com/stbaer/smooth-path",
   "devDependencies": {
-    "tape": "^4.0.2"
+    "tape": "^4.0.3"
   },
   "dependencies": {}
 }
